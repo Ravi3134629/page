@@ -1,0 +1,167 @@
+.form-main-logo {
+    margin: 3.75rem;
+    width: 10rem;
+    height: 2.25rem;
+}
+
+.form-container {
+    background-color: white;
+    width: 35rem;
+    height: 38.188rem;
+    position: absolute;
+    left: 50%;
+    top: 48%;
+    transform: translate(-50%, -50%);
+    padding: 40px 91px;
+    box-shadow: 4px 4px 20px rgba(157, 157, 157, 0.12);
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+}
+
+
+.form-info {
+    width: 23.635rem;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+
+.form-logo-design {
+    position: absolute;
+    left: 50%;
+    top: 35%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    align-items: center;
+}
+
+.form-logo {
+    background: #3766E8;
+    border-radius: 100px;
+    margin: 5px;
+    transform: matrix(0.86, -0.52, 0.51, 0.86, 0, 0);
+}
+
+
+.l1 {
+    Width: 11.05px;
+    Height: 42.37px;
+}
+
+.l2 {
+    width: 11.05px;
+    height: 27.84px;
+    position: relative;
+    top: 7px;
+    left: 4px;
+}
+
+.l3 {
+    width: 11.05px;
+    height: 21.55px;
+    position: relative;
+    top: -7px;
+    right: 4px;
+}
+
+.form-heading {
+    font-size: 1.625rem;
+    font-weight: 500;
+    text-align: center;
+    line-height: 1.875rem;
+    color: #212121;
+    height: 3.75rem;
+    margin-top: 7rem;
+}
+
+.form-para {
+    font-size: .875rem;
+    color: #545454;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+.form-label {
+    font-size: .875rem;
+    font-weight: 500;
+    line-height: 17px;
+    color: #545454;
+    margin-top: 1.5rem;
+    margin-bottom: .5rem;
+}
+
+.form-field {
+    background: #FFFFFF;
+    border: 1px solid #CED4DA;
+    border-radius: 6px;
+    padding: 10px 12px 8px 12px;
+}
+
+.form-company_size {
+    display: flex;
+    margin-top: 6px;
+    margin-left: -5px;
+}
+
+.form-company_size p {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 14px;
+    font-weight: 500;
+    /* background: #3766E8; */
+    background-color: #f0f0f0;
+    border-radius: 2px;
+    margin: 0px 8px;
+    width: 69px;
+    height: 25px;
+}
+
+.form-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px 40px;
+    width: 378.15px;
+    height: 36px;
+    color: #FFFFFF;
+    background: #3766E8;
+    border-radius: 5px;
+    margin-top: 3rem;
+    margin-bottom: 3.5rem;
+}
+
+.form-policy {
+    position: absolute;
+    bottom: 2rem;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.rect-1 {
+    width: 48rem;
+    height: .8rem;
+    position: absolute;
+    left: -12%;
+    top: 45%;
+    background: #E0E8FC;
+    transform: rotate(-30deg);
+}
+
+.rect-2 {
+    width: 55rem;
+    height: 0.8rem;
+    background: #3766E8;
+    opacity: 0.2;
+    transform: rotate(-30deg);
+    position: absolute;
+    left: 55%;
+    top: 50%;
+}
